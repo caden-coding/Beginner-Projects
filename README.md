@@ -1,2 +1,2 @@
-# Beginner-Projects
-This repository contains many different beginner projects that I have worked on.
+# Projects
+This repository is used to document all of the different projects that I have completed throughout the course of me learning Python
