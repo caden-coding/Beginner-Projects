@@ -5,8 +5,7 @@ import random
 from art import logo
 
 def deal_card():
-    random_num = random.randint(0, length - 1)
-    card = cards[random_num]
+    card = random.choice(cards)
     return card
 
 
